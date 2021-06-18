@@ -1,3 +1,2 @@
 # hello-world
-My first repository
-About myself
+These are changes made on Jun 18 at 2:45 PM
